@@ -2,7 +2,7 @@
 Weathy is a weather app built with Flutter.
 It uses OpenWeatherMap API to fetch the data.
 
-<img src="preview.gif" alt="App Preview Gif" style="zoom:30%;" />
+<img src="preview.gif" alt="App Preview Gif" style="zoom:15%;" />
 
 ## Getting Started
 - You need to register to OpenWeatherMap to obtain an API Key.
